@@ -3,7 +3,7 @@
 //consts
 const char* URL_PROTOCOL = "http";
 const char* URL_HOST = "localhost";
-const char* URL_PORT = "5595";
+const char* URL_PORT = "80";
 
 template <class T>
 struct TArray
